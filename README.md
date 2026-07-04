@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&text=Joyal%20Joshey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Cloud%20Computing%20Enthusiast&descAlignY=55"/>
 </p>
-# Hi, I'm Joyal Joshey 👋
 
 ### Software Developer | Cloud Computing Enthusiast | MCA Student
 
@@ -51,24 +50,6 @@ Passionate about building scalable applications, solving real-world problems, an
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joyaljoshey777-max&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyaljoshey777-max&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=joyaljoshey777-max&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
