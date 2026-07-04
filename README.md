@@ -4,6 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&text=Joyal%20Joshey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Cloud%20Computing%20Enthusiast&descAlignY=55"/>
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
+</p>
 ### Software Developer | Cloud Computing Enthusiast | MCA Student
 
 <p>
