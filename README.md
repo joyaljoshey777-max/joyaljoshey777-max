@@ -1,21 +1,17 @@
 <div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&text=Joyal%20Joshey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Cloud%20Computing%20Enthusiast&descAlignY=55"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:1F2937&text=Joyal%20Joshey&fontSize=45&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Developer%20|%20Cloud%20Computing%20Enthusiast&descAlignY=60"/>
 
-
-### Software Developer | Cloud Computing Enthusiast | MCA Student
+<h2>Software Developer | Cloud Computing Enthusiast | MCA Student</h2>
 
 <p>
 Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Cloud+Computing+Enthusiast;Java+%7C+Python+%7C+Django;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Cloud+Computing+Enthusiast;Java+|+Python+|+Django;Always+Learning+New+Technologies"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750547-2c2e8d4f-01fd-4b3f-8b3c-c7b7c8d4f4f6.gif" width="100%">
 ---
 
 ## 👨‍💻 About Me
@@ -28,35 +24,31 @@ Passionate about building scalable applications, solving real-world problems, an
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python"/>
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,django" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,django"/>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 ### Cloud & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
+
+</div>
 
 ---
 
-#  Currently Learning
+## 📚 Currently Learning
 
 - ☁️ Amazon Web Services (AWS)
 - ⚙️ Data Structures & Algorithms
@@ -66,7 +58,7 @@ Passionate about building scalable applications, solving real-world problems, an
 
 ---
 
-# 📌 Featured Interests
+## 📌 Featured Interests
 
 - 💻 Software Engineering
 - ☁️ Cloud Computing
@@ -76,16 +68,18 @@ Passionate about building scalable applications, solving real-world problems, an
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/joyal-joshey-367551414/">
+<a href="https://www.linkedin.com/in/joyal-joshey-367551414/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:joyaljoshey777@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -94,8 +88,10 @@ Passionate about building scalable applications, solving real-world problems, an
 
 <div align="center">
 
-### 💡 "Code with purpose. Learn without limits."
+> **"Code with purpose. Learn without limits."**
 
-<img src="https://komarev.com/ghpvc/?username=joyaljoshey777-max&label=Profile%20Views&color=0e75b6&style=flat"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=joyaljoshey777-max&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
